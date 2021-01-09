@@ -221,7 +221,7 @@ pip3 install -e .
 
 The [`notebooks`](https://github.com/petercorke/robotics-toolbox-python/tree/master/notebooks) folder contains some tutorial Jupyter notebooks which you can browse on GitHub.
 
-Or you can run them, and experiment with them, at [mybinder.org](https://mybinder.org/v2/gh/petercorke/robotics-toolbox-python/master?filepath=notebooks).
+Or you can run them, and experiment with them, at [mybinder.org](https://mybinder.org/v2/gh/LabRobPL/robotics-toolbox-python/lab?filepath=notebooks).
 
 ## Toolbox Research Applications
 
