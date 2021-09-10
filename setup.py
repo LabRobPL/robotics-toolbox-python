@@ -7,6 +7,7 @@ req = [
     'numpy',
     'spatialmath-python==0.8.6',
     'scipy',
+    'ipympl',
     'matplotlib',
     'ansitable',
     'swift-sim>=0.6.1'
