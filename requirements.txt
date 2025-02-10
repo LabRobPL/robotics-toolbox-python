@@ -1,1 +1,4 @@
+notebook==6.*
+jupyter-server==1.*
+jupyterlab==3.*
 numpy==1.26.4
